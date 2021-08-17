@@ -1,1 +1,1 @@
-console.log("this is feature-7");
+console.log("this is feature 7");
